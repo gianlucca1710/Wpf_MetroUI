@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "t32PS1NjLC6X7uEwfT1WoM9e7mdUSpvzcHlpd/ldv9wOpUafJ1aHE1zUR2jG6g3R5IYQRecBKsQIvUamIksvAQ==",
+  "success": true,
+  "projectFilePath": "D:\\playgrounds\\WpfMetro\\WpfMetro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dalle\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",
+    "C:\\Users\\dalle\\.nuget\\packages\\mahapps.metro\\2.4.10\\mahapps.metro.2.4.10.nupkg.sha512",
+    "C:\\Users\\dalle\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.19\\microsoft.xaml.behaviors.wpf.1.1.19.nupkg.sha512",
+    "C:\\Users\\dalle\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
